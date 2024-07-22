@@ -1,1 +1,0 @@
-In this project we use basic html and css
